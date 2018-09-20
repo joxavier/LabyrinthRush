@@ -1,0 +1,152 @@
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 239, in run_path
+  File "runpy.pyc", line 220, in _get_code_from_file
+  File "labrynthrushpristine.py", line 244
+    def up:
+          ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 239, in run_path
+  File "runpy.pyc", line 220, in _get_code_from_file
+  File "labrynthrushpristine.py", line 244
+    def up:
+          ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 240, in run_path
+  File "runpy.pyc", line 82, in _run_module_code
+  File "runpy.pyc", line 72, in _run_code
+  File "labrynthrushpristine.py", line 513, in <module>
+    screen.blit(player1_icon, (108,60))
+pygame.error: display Surface quit
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 240, in run_path
+  File "runpy.pyc", line 82, in _run_module_code
+  File "runpy.pyc", line 72, in _run_code
+  File "labrynthrushpristine.py", line 513, in <module>
+    screen.blit(player1_icon, (108,60))
+pygame.error: display Surface quit
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 240, in run_path
+  File "runpy.pyc", line 82, in _run_module_code
+  File "runpy.pyc", line 72, in _run_code
+  File "labrynthrushpristine.py", line 513, in <module>
+    screen.blit(player1_icon, (108,60))
+pygame.error: display Surface quit
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 240, in run_path
+  File "runpy.pyc", line 82, in _run_module_code
+  File "runpy.pyc", line 72, in _run_code
+  File "labrynthrushpristine.py", line 517, in <module>
+    screen.blit(scoreBoard, (1088,0))
+pygame.error: display Surface quit
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 240, in run_path
+  File "runpy.pyc", line 82, in _run_module_code
+  File "runpy.pyc", line 72, in _run_code
+  File "labrynthrushpristine.py", line 675, in <module>
+    screen.blit(scoreBoard, (1088,0))
+pygame.error: display Surface quit
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 240, in run_path
+  File "runpy.pyc", line 82, in _run_module_code
+  File "runpy.pyc", line 72, in _run_code
+  File "labrynthrushpristine.py", line 675, in <module>
+    screen.blit(scoreBoard, (1088,0))
+pygame.error: display Surface quit
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 240, in run_path
+  File "runpy.pyc", line 82, in _run_module_code
+  File "runpy.pyc", line 72, in _run_code
+  File "labrynthrushpristine.py", line 675, in <module>
+    screen.blit(scoreBoard, (1088,0))
+pygame.error: display Surface quit
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 240, in run_path
+  File "runpy.pyc", line 82, in _run_module_code
+  File "runpy.pyc", line 72, in _run_code
+  File "labrynthrushpristine.py", line 675, in <module>
+    screen.blit(scoreBoard, (1088,0))
+pygame.error: display Surface quit
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 240, in run_path
+  File "runpy.pyc", line 82, in _run_module_code
+  File "runpy.pyc", line 72, in _run_code
+  File "labrynthrushpristine.py", line 675, in <module>
+    screen.blit(scoreBoard, (1088,0))
+pygame.error: display Surface quit
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 239, in run_path
+  File "runpy.pyc", line 215, in _get_code_from_file
+IOError: [Errno 2] No such file or directory: 'labrynthrushpristinefinal.py'
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 239, in run_path
+  File "runpy.pyc", line 215, in _get_code_from_file
+IOError: [Errno 2] No such file or directory: 'labrynthrushpristinefinal.py'
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 240, in run_path
+  File "runpy.pyc", line 82, in _run_module_code
+  File "runpy.pyc", line 72, in _run_code
+  File "labrynthrushpristinefinal.pyw", line 425, in <module>
+    screen.blit(scoreBoard, (1088,0))
+pygame.error: display Surface quit
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 240, in run_path
+  File "runpy.pyc", line 82, in _run_module_code
+  File "runpy.pyc", line 72, in _run_code
+  File "labrynthrushpristine1.py", line 640, in <module>
+    screen.blit(scoreBoard, (1088,0))
+pygame.error: display Surface quit
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 239, in run_path
+  File "runpy.pyc", line 215, in _get_code_from_file
+IOError: [Errno 2] No such file or directory: 'labrynthrushfinalpristineawesome.py'
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 239, in run_path
+  File "runpy.pyc", line 215, in _get_code_from_file
+IOError: [Errno 2] No such file or directory: 'llabryinthrushfinalpristineawesome.py'
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 239, in run_path
+  File "runpy.pyc", line 215, in _get_code_from_file
+IOError: [Errno 2] No such file or directory: 'labryinthrushfinalpristineawesome.py'
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 240, in run_path
+  File "runpy.pyc", line 82, in _run_module_code
+  File "runpy.pyc", line 72, in _run_code
+  File "labyrinthRushXuuuuuu.py", line 910, in <module>
+    room_menu()
+  File "labyrinthRushXuuuuuu.py", line 50, in room_menu
+    room_game()
+  File "labyrinthRushXuuuuuu.py", line 852, in room_game
+    room_scores(scores)
+  File "labyrinthRushXuuuuuu.py", line 902, in room_scores
+    room_menu()
+  File "labyrinthRushXuuuuuu.py", line 54, in room_menu
+    room_controls()
+  File "labyrinthRushXuuuuuu.py", line 111, in room_controls
+    elif (pygame.mouse.get_pressed()[0] == True):
+pygame.error: video system not initialized
+Traceback (most recent call last):
+  File "pyg.py", line 22, in <module>
+  File "runpy.pyc", line 239, in run_path
+  File "runpy.pyc", line 215, in _get_code_from_file
+IOError: [Errno 2] No such file or directory: 'labryinthrush.py'
